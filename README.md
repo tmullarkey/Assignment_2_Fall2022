@@ -1,5 +1,5 @@
 # ENGS 108 Fall 2022 Assignment 2 Template Repository
-Included in this repository is the Assignment 1 notebook. It provides a skeleton for your coding assignment so that hopefully concepts are enforced over debugging. Although these assignments have been curated throughout the years, this delivery format is experimental, so if anything doesn't work as it should please let the TAs know as soon as possible. 
+Included in this repository is the Assignment 2 notebook. It provides a skeleton for your coding assignment so that hopefully concepts are enforced over debugging. Although these assignments have been curated throughout the years, this delivery format is experimental, so if anything doesn't work as it should please let the TAs know as soon as possible. 
 
 # Getting Setup
 
@@ -48,7 +48,7 @@ The homework development process should be as follows:
 1. Answer all assignment code inside your Colab notebook via code or Markdown. If you are unsure about writing in Markdown view this [guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=tPqPXAKKkzaM). It's actually quite easy.
 1. We are going to use Github classroom (experimental) to submit assignments because its way easier than Canvas.
 1. Upon completion of your assignment in Google Colab, go to File > Save a copy in Github. 
-1. A new window will pop up, go to the Repository drop down and select your personal assignment repository (probably labeled something like "Thayer-ENGS108/assignment_1_Fall2022-{your-name}").
+1. A new window will pop up, go to the Repository drop down and select your personal assignment repository (probably labeled something like "Thayer-ENGS108/assignment_2_Fall2022-{your-name}").
 1. To make multiple submissions, just keep saving a copy to Github like previously described and just overwrite your old copy.
 1. **Important:** Always make sure to check your work to make sure your saved copy on Github matches your work in your notebook, remember you are saving the colab notebook constantlty in Google Drive and saving copies (snapshots) to Github, so Github will only make changes when you explicitly do the File > Save a copy in Github command!
 1. Make sure you get your final submission in by the deadline!
