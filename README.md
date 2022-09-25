@@ -5,9 +5,9 @@ Included in this repository is the Assignment 2 notebook. It provides a skeleton
 
 This semester we will be using Github Classroom to host datasets and assignment template notebooks and Google Colab to run all of our code. The process for getting setup is pretty straightforward and you will be aided considerably if you install the following tools:
 1. You have already accepted the assignment invite so now you are in your own private repository.
-1. You will see a file called *Assignment_1_Fall2022_template.ipynb*, click on it!
+1. You will see a file called *Assignment_2_Fall2022_template.ipynb*, click on it!
 1. Then click on the button to "Open in Google Colab."
-1. **Important:** Then click Save a copy in Drive and rename it something different like: *submission_assignment1.ipynb* (This will make it easier for us to find later). 
+1. **Important:** Then click Save a copy in Drive and rename it something different like: *submission_assignment2.ipynb* (This will make it easier for us to find later). 
 1. This will open up a new notebook and save a copy to MyDrive/Colab Notebooks. You can check the location by going to File > Locate in Drive.
 1. Now you have a copy of the skeleton in your Colab Notebook folder, seperated from your Git Repo.
 1. **This is important in case I have to update a skeleton for some reason it won't accidently overwrite work that you have already done.**
@@ -48,7 +48,38 @@ The homework development process should be as follows:
 1. Answer all assignment code inside your Colab notebook via code or Markdown. If you are unsure about writing in Markdown view this [guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=tPqPXAKKkzaM). It's actually quite easy.
 1. We are going to use Github classroom (experimental) to submit assignments because its way easier than Canvas.
 1. Upon completion of your assignment in Google Colab, go to File > Save a copy in Github. 
-1. A new window will pop up, go to the Repository drop down and select your personal assignment repository (probably labeled something like "Thayer-ENGS108/assignment_2_Fall2022-{your-name}").
+1. A new window will pop up, go to the Repository drop down and select your personal assignment repository (probably labeled something like "Thayer-ENGS108/assignment_1_Fall2022-{your-name}").
 1. To make multiple submissions, just keep saving a copy to Github like previously described and just overwrite your old copy.
 1. **Important:** Always make sure to check your work to make sure your saved copy on Github matches your work in your notebook, remember you are saving the colab notebook constantlty in Google Drive and saving copies (snapshots) to Github, so Github will only make changes when you explicitly do the File > Save a copy in Github command!
 1. Make sure you get your final submission in by the deadline!
+
+# Updating Homework and Datasets
+Sometimes there may be incidences when we need to make revisions to a problem set and you will need to update your assignment notebook or datasets. We will try to minimize these disruptions but just in case.
+
+## Updating Assignment Notebook
+1.	Go to your assignment Github repository. 
+2.	Below your assignment repo name, you should see a “generated from” hyperlink. Click on it.
+
+![Screenshot](assets/readme-image-1.png?raw=true "Screenshot 1")
+
+3.	This base template repo is the place that we will update any assignment corrections. Click on the updated assignment repo and open in Google Colab.
+4.	Save this repo to your Google Drive as something new like: assignment-XX-updated.ipynb. 
+5.	Then you can manually update this notebook with any old notebook code/markdown that you’ve already completed. In other words, copy and paste your any of your completed work to this new notebook. 
+a.	We are sorry for the manual process, but we think it’s the easiest/safest way.
+6.	**IMPORTANT:** Once you’ve copied over all your work to the new notebook, save that work to your github repo like you normally do.
+
+## Updating Datasets
+1.	Go to your assignment Github repository. 
+2.	Below your assignment repo name, you should see a “generated from” hyperlink (See above figure). Click on it.
+3.	Click on Code > Download ZIP, to download the entire template repo.
+
+![Screenshot](assets/readme-image-2.png?raw=true "Screenshot 2")
+
+4.	Extract the ZIP file and navigate to datasets.
+5.	Now go back to your assignment repo on Github and also navigate to datasets.
+6.	Click on Add File > Upload files.
+
+![Screenshot](assets/readme-image-3.png?raw=true "Screenshot 3")
+
+7.	Re-upload all the new data files to your local Github and Click Commit.
+8.	You’re now all set.  
